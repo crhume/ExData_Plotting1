@@ -1,3 +1,16 @@
+## Additional Notes:
+
+The contents of this directory (other than the README.md file) are the requested contents described in the document below.
+
+To run the files plotX.R where X=(1,2,3,4) add the file to the same directory where the data file provided by the link below is set, your working directory should contain the "household_power_consumption.txt" file.
+
+Source the plotX.R (the first time you perform one of these, it will create a saved file which is the post-production dataset.  This process takes a little while, but once it is done once, it will not be done again unless you delete the temporary file.
+
+Run the function drawPlot() to see the plot on your screen, or exportPlot() to save the plot to disk.
+
+Thanks, enjoy!
+
+
 ## Introduction
 
 This assignment uses data from
